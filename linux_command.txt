@@ -1,0 +1,14 @@
+ข้อ a  สร้าง Directory  
+
+	mkdir Final_1
+
+ข้อ b 	สร้าง file เปล่าชื่อ ROBOT_CLASS.txt
+
+	cd Final_1  /// เข้าไปในโฟลเดอร์ Final_1 
+
+	touch ROBOT_CLASS.txt ////  สร้างไฟล์ text ชื่อ ROBOT_CLASS.txt
+ข้อ c	
+	Step 1 add remote :  git remote add origin https://github.com/robot-class/final.git
+
+	Step 2 create new branch and switch :  git switch -c robot-dev
+		
